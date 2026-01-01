@@ -1,0 +1,208 @@
+{
+    "produk": [
+        {
+            "judul" : "Biji Kopi",
+            "router": "/biji-kopi",
+            "gambar": "/assets/produk/biji-kopi.webp",
+            "deskripsi": "Kami menawarkan berbagai jenis kopi biji khususnya kopi khas Pegunungan Anjasmoro, yang mempunyai cita rasa unik dan karakter yang berbeda. Perusahaan kami juga menyedikan kopi biji untuk ecer, grosir  dan export ke luar negeri. Serta kopi berasal dari berbagai kepulauan Indonesia yang dikemas dalam jumlah kecil dan jumlah besar untuk memenuhi kebutuhan anda.",
+            "subdata": [
+                {
+                    "jenis": "Excelsa",
+                    "router": "/excelsa",
+                    "foto": "/assets/produk/biji-kopi-excelsa.webp",
+                    "deskripsi": "Kopi Excelsa sebuah kopi khas Lereng Pegunungan Anjasmoro yang memiliki karakter unik dan rasa yang khas. Kopi Excelsa tumbuh di ketinggian mulai 400-800 mdpl yang di petik dan diproses secara tradisional oleh para petani lokal. Kopi Excelsa mempunyai cita rasa yang komplek, aroma buah-buahan (nangka), aromatic, manis dan memiliki asam yang begitu lembut.",
+                    "spek": [
+                        "Grade 1 / 2",
+                        "Moisture : 12.5% Max",
+                        "Defect : 5% Max",
+                        "Biji Kecil 6-7mm",
+                        "Warna biji kuning",
+                        "Proses Natural",
+                        "Packing : Gunny bag / Sack"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Kilo",
+                            "harga": 40000,
+                            "tersedia": true
+                        }
+                    ]
+                },
+                {
+                    "jenis": "Robusta",
+                    "router": "/robusta",
+                    "foto": "/assets/produk/biji-kopi-robusta.webp",
+                    "deskripsi": "Kopi Robusta sebuah kopi yang besar di produksi Indonesia. Kopi Robusta tumbuh di ketinggian mulai 500-800 mdpl yang banyak tersebar di wilayah kepulauan Indonesia khususnya Lereng Pegunungan Anjasmoro. Kopi Robusta ini sebagaian besar di konsumsi masyarakat karena harga yang relative dan rasa yang kuat.",
+                    "spek": [
+                        "Grade 1 / 2",
+                        "Moisture : 12.5% Max",
+                        "Defect : 5% Max",
+                        "Proses Natural / Full Wash / Semi Wash",
+                        "Packing : Gunny bag / Sack"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Kilo",
+                            "harga": 35000,
+                            "tersedia": true
+                        }
+                    ]
+                },
+                {
+                    "jenis": "Arabika",
+                    "router": "/arabika",
+                    "foto": "/assets/produk/biji-kopi-arabika.webp",
+                    "deskripsi": "Kopi Arabika adalah biji kopi terbesar produksinya di seluruh dunia. Kopi Arabika tumbuh di ketinggian mulai 1000 mdpl, yang banyak tersebar di wilayah kepulauan Indonesia yaitu Jawa Ijen Raung, Preanger, Sindoro-Sumbing, Sumatera Mandhailing, Toraja, Flores, Kerinci, Gayo, Bali Kintamani dll. Kopi Arabika ini memiliki keistimewaan karakter rasa yang yang kompleks sehingga menjadi primadona di Negara Tujuan Export Kopi Indonesia.",
+                    "spek": [
+                        "Grade 1 / 2",
+                        "Moisture : 12.5% Max",
+                        "Defect : 5% Max",
+                        "Proses Natural / Full Wash / Semi Wash",
+                        "Packing : Gunny bag / Sack"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Kilo",
+                            "harga": 85000,
+                            "tersedia": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "judul" : "Kopi Sangrai",
+            "router": "/kopi-sangrai",
+            "gambar": "/assets/produk/kopi-sangrai.webp",
+            "deskripsi": "Kami menyediakan berbagai kopi sangrai khas lereng pegunungan Anjasmoro yang diproses secara higinis serta dari kopi biji pilihan dengan kualitas terbaik. Perusahaan kami juga menyediakan kopi single origin dari beberapa kepulauan yang ada di Indonesia.",
+            "subdata": [
+                {
+                    "jenis": "Excelsa",
+                    "router": "/excelsa",
+                    "foto": "/assets/produk/kopi-sangrai-excelsa.webp",
+                    "deskripsi": "Kopi sangrai excelsa terbuat dari 100% kopi pilihan dari lereng pegunungan Anjasmoro, yang diproses dan dikemas secara baik dan higienis sehingga menghasilkan cita rasa kopi yang nikmat dan harum.",
+                    "spek": [
+                        "Komposisi : 100% Kopi Excelsa Murni",
+                        "Berat Bersih : 1kg / Bulk",
+                        "Kemasan : Alumunium Foil / Plastik",
+                        "Parameter Fisik : Sangrai - Coklat",
+                        "Aroma/Rasa : Buah-buahan (Nangka), Aromatic, Manis, Sedikit Asam",
+                        "Penyimpanan : Simpan dalam kondisi sejuk, kering, higienis",
+                        "Umur Simpan : 12 Bulan dari produksi jika disimpan dalam kondisi yang benar"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Kilo",
+                            "harga": 85000,
+                            "tersedia": true
+                        }
+                    ]
+                },
+                {
+                    "jenis": "Robusta",
+                    "router": "/robusta",
+                    "foto": "/assets/produk/kopi-sangrai-robusta.webp",
+                    "deskripsi": "Kopi sangrai robusta terbuat dari 100% kopi murni yang di petik dari lereng pegunungan Anjasmoro, yang diproses dan dikemas secara baik dan higienis sehingga menghasilkan cita rasa kopi yang nikmat dan harum.",
+                    "spek": [
+                        "Komposisi : 100% Kopi Robusta Murni",
+                        "Berat Bersih : 1kg / Bulk",
+                        "Kemasan : Alumunium Foil / Plastik",
+                        "Parameter Fisik : Sangrai - Coklat",
+                        "Aroma/Rasa : Pahit rasa kopi robusta normal, harum ",
+                        "Penyimpanan : Simpan dalam kondisi sejuk, kering, higienis",
+                        "Umur Simpan : 12 Bulan dari produksi jika disimpan dalam kondisi yang benar"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Kilo",
+                            "harga": 45000,
+                            "tersedia": true
+                        }
+                    ]
+                },
+                {
+                    "jenis": "Arabika",
+                    "router": "/arabika",
+                    "foto": "/assets/produk/kopi-sangrai-arabika.webp",
+                    "deskripsi": "Kopi sangrai arabika terbuat dari 100% kopi murni yang di petik dari lereng pegunungan Anjasmoro dan Penanggungan serta dari daerah lain seperti Gayo, Mandhailing,  Bondowoso, Ijen Raung,dll. Kopi yang diproses dan dikemas secara baik dan higienis sehingga menghasilkan cita rasa kopi yang nikmat dan harum. ",
+                    "spek": [
+                        "Komposisi : 100% Kopi Arabika Murni",
+                        "Berat Bersih : 1kg / Bulk",
+                        "Kemasan : Alumunium Foil / Plastik",
+                        "Parameter Fisik : Sangrai - Coklat",
+                        "Aroma/Rasa : Kompleks, Aromatic, Sweetness, Sour",
+                        "Penyimpanan : Simpan dalam kondisi sejuk, kering, higienis",
+                        "Umur Simpan : 12 Bulan dari produksi jika disimpan dalam kondisi yang benar"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Kilo",
+                            "harga": 95000,
+                            "tersedia": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "judul" : "Kopi Bubuk",
+            "router": "/kopi-bubuk",
+            "gambar": "/assets/produk/kopi-bubuk.webp",
+            "deskripsi": "Kami menyediakan berbagai macam kopi bubuk yang diproses secara higinis, yang terbuat dari kopi biji murni pilihan dengan kualitas yang baik serta harga yang terjangkau untuk anda yang ingin berbisnis kopi dan dikonsumsi pribadi.",
+            "subdata": [
+                {
+                    "jenis": "Excelsa",
+                    "router": "/excelsa",
+                    "foto": "/assets/produk/kopi-bubuk-excelsa.webp",
+                    "deskripsi": "Kopi bubuk excelsa terbuat dari 100% kopi murni yang di petik dari lereng pegunungan Anjasmoro, yang diproses dan dikemas secara baik dan higienis sehingga menghasilkan cita rasa kopi yang nikmat dan harum.",
+                    "spek": [
+                        "Komposisi : 100% Kopi Excelsa Murni",
+                        "Berat Bersih : 150 g",
+                        "Kemasan : Alumunium Foil Food Grade Standing Pouch ",
+                        "Parameter Fisik : Bubuk - Coklat",
+                        "Aroma/Rasa : Buah-buahan (Nangka), Aromatic, Manis, Sedikit Asam",
+                        "Penyimpanan : Simpan dalam kondisi sejuk, kering, higienis",
+                        "Umur Simpan : 12 Bulan dari produksi jika disimpan dalam kondisi yang benar"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Pcs",
+                            "harga": 20000,
+                            "tersedia": true
+                        }
+                    ]
+                },
+                {
+                    "jenis": "Robusta",
+                    "router": "/robusta",
+                    "foto": "/assets/produk/kopi-bubuk-robusta.webp",
+                    "deskripsi": "Kopi bubuk robusta terbuat dari 100% kopi murni yang di petik dari lereng pegunungan Anjasmoro, yang diproses dan dikemas secara baik dan higienis sehingga menghasilkan cita rasa kopi yang nikmat dan harum.",
+                    "spek": [
+                        "Komposisi : 100% Kopi Robusta Murni",
+                        "Berat Bersih : 250 g",
+                        "Kemasan : Plastik",
+                        "Parameter Fisik : Bubuk - Coklat",
+                        "Aroma/Rasa : Pahit rasa kopi robusta normal, harum ",
+                        "Penyimpanan : Simpan dalam kondisi sejuk, kering, higienis",
+                        "Umur Simpan : 12 Bulan dari produksi jika disimpan dalam kondisi yang benar"
+                    ],
+                    "status": [
+                        {
+                            "jenis": "Retail",
+                            "satuan": "Per Pcs",
+                            "harga": 15000,
+                            "tersedia": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

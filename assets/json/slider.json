@@ -1,0 +1,18 @@
+[
+    {
+        "bg": "bg1",
+        "title": "Kopi Excelsa Anjasmoro",
+        "subtitle": "Kopi dengan cita rasa yang nikmat, enak dan harum. Single origin lereng pegunungan Anjasmoro hadir untuk anda.",
+        "img": "./assets/produk/kopi-bubuk.webp",
+        "router": "/produk/kopi-bubuk/excelsa",
+        "routertext": "Selengkapnya..."
+    },
+    {
+        "bg": "bg2",
+        "title": "Supplier Kopi Biji Indonesia",
+        "subtitle": "Kami hadir untuk memenuhi kebutuhan kopi anda. Menyediakan segala kopi biji dari berbegai kepulauan di Indonesia.",
+        "img": "./assets/produk/biji-kopi.webp",
+        "router": "/produk/biji-kopi",
+        "routertext": "Selengkapnya..."
+    }
+]
